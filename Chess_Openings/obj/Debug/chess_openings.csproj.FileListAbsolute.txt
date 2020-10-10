@@ -1,0 +1,10 @@
+D:\Projects\chess_openings\chess_openings\obj\Debug\chess_openings.Form1.resources
+D:\Projects\chess_openings\chess_openings\obj\Debug\chess_openings.Properties.Resources.resources
+D:\Projects\chess_openings\chess_openings\obj\Debug\chess_openings.csproj.GenerateResource.cache
+D:\Projects\chess_openings\chess_openings\bin\Debug\chess_openings.exe.config
+D:\Projects\chess_openings\chess_openings\bin\Debug\chess_openings.exe
+D:\Projects\chess_openings\chess_openings\bin\Debug\chess_openings.pdb
+D:\Projects\chess_openings\chess_openings\obj\Debug\chess_openings.g.resources
+D:\Projects\chess_openings\chess_openings\obj\Debug\chess_openings.exe
+D:\Projects\chess_openings\chess_openings\obj\Debug\chess_openings.pdb
+D:\Projects\chess_openings\chess_openings\obj\Debug\chess_openings.csprojAssemblyReference.cache
